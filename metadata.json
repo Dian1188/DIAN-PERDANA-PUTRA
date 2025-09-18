@@ -1,0 +1,5 @@
+{
+  "name": "RPM Generator oleh Dian Perdana Putra",
+  "description": "Sebuah aplikasi untuk menghasilkan Rencana Pembelajaran Mendalam (RPM) secara otomatis berdasarkan input dari guru. Aplikasi ini dirancang untuk mempermudah penyusunan perangkat ajar sesuai dengan kurikulum yang berlaku.",
+  "requestFramePermissions": []
+}
